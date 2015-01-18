@@ -15,3 +15,10 @@ you can sign in with that one.
 
 **Our program uses a database so if you want to run it just by compiling the 
 code you must include the sqllite external library we have attached.
+
+Created by:
+Asher Perlmutter
+Ryan Kreiter
+Stephen Osentoski
+Kyle Hildebrandt
+Troy Nemeth
