@@ -17,8 +17,8 @@ you can sign in with that one.
 code you must include the sqllite external library we have attached.
 
 Created by:
-Asher Perlmutter
-Ryan Kreiter
-Stephen Osentoski
-Kyle Hildebrandt
-Troy Nemeth
+  Kyle Hildebrandt
+  Ryan Kreiter
+  Troy Nemeth
+  Stephen Osentoski
+  Asher Perlmutter
